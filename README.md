@@ -2,35 +2,6 @@
 
 <h2 align="center">Desarrolladora Font-End con conocimientos en Back-end | Tecnicatura Universitaria en Desarrollo de Aplicaciones</h2>
 
-<br/>
-<h3 id="motivacion">📈 Lo que me motiva</h3>
-  <ul>
-    <li>Desarrollar software que resuelva problemas concretos</li>
-    <li>Aprender nuevas tecnologías y metodologías ágiles</li>
-    <li>Optimizar procesos y mejorar la experiencia del usuario</li>
-    <li>Combinar la parte técnica con la estrategia digital</li>
-  </ul>
-
-
-<!--
-**Diego-Santellan/Diego-Santellan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center">🎯 Apasionada por crear soluciones desde el FRONT y el BACK, enfocada en mejorar la experiencia del usuario y optimizar procesos 🚀</h3>
-<br />
-
-<pre>
 <code class="language-javascript">
 const perfil = {
     pasion: "Crear soluciones eficientes y escalables",
@@ -45,11 +16,19 @@ const perfil = {
 </code>
 </pre>
 
-<hr />
+
+<br/>
+<h3 id="motivacion">📈 Lo que me motiva</h3>
+  <ul>
+    <li>Desarrollar software que resuelva problemas concretos</li>
+    <li>Aprender nuevas tecnologías y metodologías ágiles</li>
+    <li>Optimizar procesos y mejorar la experiencia del usuario</li>
+    <li>Combinar la parte técnica con la estrategia digital</li>
+  </ul>
 
 <h2 align="center">📊 Estadísticas</h2>
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Santellan&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Santellan&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes"/>
 </p>
 <br />
 <p align="center">
