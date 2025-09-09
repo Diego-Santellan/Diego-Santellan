@@ -1,4 +1,4 @@
-## <h1 align="center">Hola Mundo! 👋<br />Soy Diego</h1>
+## <h1 align="center">Hola Mundo! Soy Diego 👋</h1>
 
 
 <!--
