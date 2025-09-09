@@ -27,7 +27,7 @@ const perfil = {
   </ul>
 
 <h2 align="center">📊 Estadísticas</h2>
-<table>
+<table  width="100%">
   <tr>
     <td>
       <img 
