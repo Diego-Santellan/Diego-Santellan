@@ -81,23 +81,20 @@ const perfil = {
 
 <hr />
 
-<h2 align="center">📬 Contacto</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/diego-santellan/">
-<img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  <p>pp</p>
-<a href="mailto:dsantellan@alumnos.exa.unicen.edu.ar">
-<img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-Diego-Santellan-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Diego-Santellan)
+
+[![Email](https://img.shields.io/badge/Email-lm30540@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lm30540@gmail.com)
+
 
 <hr />
 
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
 <h2 align="center">🚀 ¿Te gustaría que colabore en tu proyecto?</h2>
 <p align="center">
-  <a href="mailto:lm30540@gmail.com">
+  <a href="mailto:dsantellan@alumnos.exa.unicen.edu.ar">
     <img src="https://img.shields.io/badge/-Contáctame-008CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
 </p>
