@@ -50,18 +50,6 @@ const perfil = {
 </p>
 
 <hr/>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="65" heigth="65">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" alt="CSS"width="65" heigth="65">
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript"width="65" heigth="65">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap"width="65" heigth="65">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" alt="Java"width="65" heigth="65">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP"width="65" heigth="65">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"width="65" heigth="65">
-  <img src="https://cdn-icons-png.flaticon.com/512/3079/3079012.png" alt="Pensamiento Lógico"width="65" heigth="65">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js"width="65" heigth="65">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-icon-svg-png-download-3029847.png" alt="Angular"width="65" heigth="65">
-</p>
 
 <h2 align="center">💡 Soft Skills</h2>
 <ul>
