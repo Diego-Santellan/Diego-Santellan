@@ -27,19 +27,32 @@ const perfil = {
   </ul>
 
 <h2 align="center">📊 Estadísticas</h2>
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Santellan&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes"/>
-</p>
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Diego-Santellan&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="GitHub stats" />
-</p>
-<br />
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Santellan&theme=dark" alt="GitHub streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Santellan&show_icons=true&theme=dark&locale=es&layout=compact" 
+        alt="Top lenguajes" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Diego-Santellan&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" 
+        alt="GitHub stats" 
+        width="400" 
+        height="200"
+      />
+      <br/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Santellan&theme=dark" 
+        alt="GitHub streak" 
+        width="400" 
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
-<hr />
 
 <h2 align="center">🛠 Habilidades Técnicas</h2>
 <p align="center">
