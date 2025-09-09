@@ -1,7 +1,9 @@
-## <h1 align="center">Hola Mundo! Soy Diego 👋</h1>
+<h1 align="center">Hola! 👋Soy Diego Santellan</h1>
+<h2 align="center">Desarrollador Full Stack | Tecnicatura Universitaria en Desarrollo de Aplicaciones</h2>
+<h3 align="center">🎯 Apasionado por crear soluciones desde el FRONT y el BACK, enfocada en mejorar la experiencia del usuario y optimizar procesos 🚀</h3>
+<br />
 
-<h2 align="center">Desarrolladora Font-End con conocimientos en Back-end | Tecnicatura Universitaria en Desarrollo de Aplicaciones</h2>
-
+<pre>
 <code class="language-javascript">
 const perfil = {
     pasion: "Crear soluciones eficientes y escalables",
@@ -16,43 +18,22 @@ const perfil = {
 </code>
 </pre>
 
+<hr />
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Santellan&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Diego-Santellan&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="GitHub stats" />
 <br/>
-<h3 id="motivacion">📈 Lo que me motiva</h3>
-  <ul>
-    <li>Desarrollar software que resuelva problemas concretos</li>
-    <li>Aprender nuevas tecnologías y metodologías ágiles</li>
-    <li>Optimizar procesos y mejorar la experiencia del usuario</li>
-    <li>Combinar la parte técnica con la estrategia digital</li>
-  </ul>
-
-<h2 align="center">📊 Estadísticas</h2>
-<table  width="100vw">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Santellan&show_icons=true&theme=dark&locale=es&layout=compact" 
-        alt="Top lenguajes" 
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Diego-Santellan&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" 
-        alt="GitHub stats" 
-        width="400" 
-        height="200"
-      />
-      <br/>
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Santellan&theme=dark" 
-        alt="GitHub streak" 
-        width="400" 
-        height="200"
-      />
-    </td>
-  </tr>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Santellan&theme=dark" alt="GitHub streak" />
+</td>
+</tr>
 </table>
 
+<hr />
 
 <h2 align="center">🛠 Habilidades Técnicas</h2>
 <p align="center">
@@ -81,14 +62,16 @@ const perfil = {
 
 <hr />
 
-## 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Diego-Santellan-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Diego-Santellan)
-
-[![Email](https://img.shields.io/badge/Email-lm30540@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lm30540@gmail.com)
-
-
+<h2 align="center">📬 Contacto</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/diego-santellan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-DiegoSantellan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br /><br />
+  <a href="mailto:dsantellan@alumnos.exa.unicen.edu.ar">
+    <img src="https://img.shields.io/badge/Email-dsantellan@alumnos.exa.unicen.edu.ar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 <hr />
 
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
@@ -98,4 +81,3 @@ const perfil = {
     <img src="https://img.shields.io/badge/-Contáctame-008CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
 </p>
-
